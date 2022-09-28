@@ -25,3 +25,6 @@ public class daire {
 }
 
 ```
+# Patika Profilim :
+***
+<a href="https://app.patika.dev/krblttrkn">Patika Linkim</a>
